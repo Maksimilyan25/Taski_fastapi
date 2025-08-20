@@ -1,4 +1,8 @@
-env/
-venv/
+.venv
+__pycache__
+.idea
+*/Dockerfile*
+.dockerignore
 .env
-migrations/
+/venv
+venv/
